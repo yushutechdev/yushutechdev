@@ -1,0 +1,38 @@
+# Website Development Task List
+
+## Phase 1: Directory Structure
+- [ ] Create CSS folder
+- [ ] Create JS folder
+- [ ] Create Images folder with subfolders
+- [ ] Create app-ads.txt
+
+## Phase 2: SVG Assets
+- [ ] Create logo.svg
+- [ ] Create navigation icons
+- [ ] Create social media icons
+- [ ] Create service icons
+- [ ] Create feature icons
+
+## Phase 3: CSS Framework
+- [ ] Create main.css (global styles, variables, utilities)
+- [ ] Create animations.css (all animation keyframes)
+- [ ] Create responsive breakpoints
+
+## Phase 4: JavaScript
+- [ ] Create main.js (navigation, utilities)
+- [ ] Create animations.js (scroll animations, counters)
+- [ ] Create scroll-effects.js (parallax, reveal effects)
+
+## Phase 5: HTML Pages
+- [ ] Create index.html (Home)
+- [ ] Create services.html (Business Services)
+- [ ] Create culture.html (Corporate Culture)
+- [ ] Create news.html (Company News)
+- [ ] Create contact.html (Contact Us)
+- [ ] Create privacy-policy.html
+- [ ] Create terms-of-service.html
+
+## Phase 6: Verification
+- [ ] Verify file structure
+- [ ] Verify SEO compliance
+- [ ] Test animations
